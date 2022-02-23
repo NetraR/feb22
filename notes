@@ -1,0 +1,13 @@
+1.grid
+  grid is 2D , it means we have both rows and columns
+  instesd of using float and positioning we are using grid
+
+inside cont
+  display:grid -- it gives content in rows and columns
+  grid-template-columns-- % px fr(fraction)--- it is for width
+  grid-template-row --- to give height
+
+  grid-column-gap--- to give space between column
+
+inside child
+  grid-column-start --column no start/column no end
